@@ -104,4 +104,4 @@ Creates a video with synchronized text subtitles.
 Frontend: Receives the video file and displays it.
 
 License
-This project is licensed under the Anjan.
+This project is licensed under the Dhiraj.
