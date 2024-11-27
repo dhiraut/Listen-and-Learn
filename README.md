@@ -41,8 +41,8 @@ OpenAI API Key
 
 Installation
 ## Clone the Repository
-  git clone https://github.com/your-username/ListenAndLearn.git
-  cd ListenAndLearn
+  git clone https://github.com/dhiraut/Listen-and-Learn.git
+  
 ## Install Backend and Frontend Dependencies
   ### Install backend dependencies
     cd Backend
